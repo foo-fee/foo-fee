@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lote of things, some times Collatz stuff.
 - 🌱 I’m currently learning to live a good life
 - 💞️ I’m looking to collaborate on getting a better life
-- 📫 How to reach me on the astral plane or my avatar Ture Andersen
+- 📫 How to reach me on the astral plane or try my avatar Ture Andersen
 
 <!---
 foo-fee/foo-fee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
