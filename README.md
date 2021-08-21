@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @foo-fee
-- 👀 I’m interested in a lote of things, some tines Collatz stuff.
+- 👀 I’m interested in a lote of things, some times Collatz stuff.
 - 🌱 I’m currently learning to live a good life
 - 💞️ I’m looking to collaborate on getting a better life
 - 📫 How to reach me on the astral plane or my avatar Ture Andersen
